@@ -116,6 +116,18 @@ a.nav-link{
     margin: 30px;
     padding: 3px;
 }
+#joinbtn1{
+    margin-top: 10px;
+}
+#joinbtn2{
+    margin-top: 38px;
+}
+#joinbtn3{
+    margin-top: 75px;
+}
+#joinbtn4{
+    margin-top: 43px;
+}
 
 /* footer starts here */
 #footer{

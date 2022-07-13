@@ -143,16 +143,13 @@ a.nav-link{
 #faicons:hover{
     color: white;
 }
-.input-group-text{
-    margin-top: 5px;
-}
+.input-group-text{margin-top: 5px;}
 .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
     margin-left: 10px;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     margin-right: 350px;
-    margin-top: 5px;
-}
+    margin-top: 5px;}
 #footericons{
     padding-top: 50px;
     padding-left: 100px;

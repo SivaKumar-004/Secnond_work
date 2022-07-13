@@ -1,0 +1,161 @@
+*{
+ padding: 0%;
+ margin: 0%;   
+}
+.body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#head{
+    padding-left: 10%;
+    padding-right: 5%;
+    background-color:#52ba7d;
+    color: rgb(0, 0, 0);
+}
+#imga{
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#headlogo{
+    height: 300px;
+}
+.container-fluid{
+    padding-top: 3%;
+}
+h1{
+    padding-left: 20px;
+}
+.row{
+    padding-left: 10px;
+}
+.navbar-brand{
+    padding-left: 10px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-decoration-color: black;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar-brand h1{
+    padding-left: 10%;
+    color: white;
+    font-size: 48px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.nav-link{
+    color: black;
+}
+.btn-outline-light{
+    margin-top:20px;
+}
+.btn-outline-dark {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+.btn-outline-light {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 1rem;
+    padding-top: 0px;
+    margin-top: 14px;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+}
+
+
+/* features starts here */
+
+#features{
+    height: auto;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 10%;
+    align-items: center;
+    text-align: center;
+}
+
+/* carousel starts here */
+
+#carousel1{
+    height: auto;
+    background-color: #52ba7d;
+    padding: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    text-align: center;
+
+}
+.carousel-inner{
+    padding: 5%;
+    align-items: center;
+    background-attachment: fixed;
+
+}
+#imge{
+    height: 50px;
+}
+
+/* courses starts here */
+
+#courses{
+
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#card1{
+    margin-left: 55px;
+}
+.card{
+    margin-left: 20px;
+    margin: 30px;
+    padding: 3px;
+}
+
+/* footer starts here */
+#footer{
+    height: auto;
+    background-color: #52ba7d;
+}
+#faicons{
+    padding: 50px;
+    color: black;
+    align-items:center;
+    text-align: right;
+}
+#faicons:hover{
+    color: white;
+}
+.input-group-text{
+    margin-top: 5px;
+}
+.input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-left: 10px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-right: 350px;
+    margin-top: 5px;
+}
+#footericons{
+    padding-top: 50px;
+    padding-left: 100px;
+
+}
+#footeraddress{
+    padding-top: 50px;
+    padding-right: 100px;
+}
+#copyright{
+    padding: 50px;
+    margin-left: 50px;
+    text-align: left;
+}
+#copyright :hover{
+    color: white;
+}
+
